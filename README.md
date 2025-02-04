@@ -20,7 +20,7 @@ npx depcruise --init
 ### Step 3: Install Graphviz (Windows Only)
 For Windows, you will need to install Graphviz to generate dependency graphs. Download and install the installer from the following link:
 
-[Download Graphviz](<[https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/12.2.1/windows_10_cmake_Release_graphviz-install-12.2.1-win64.exe]>).
+[Download Graphviz](<https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/12.2.1/windows_10_cmake_Release_graphviz-install-12.2.1-win64.exe>).
 
 
 ### Step 4: Add Graphviz to System Path
