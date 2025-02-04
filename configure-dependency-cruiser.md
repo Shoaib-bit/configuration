@@ -1,4 +1,4 @@
-# Dependency Cruiser
+# Visualizing React & Next.js App Architecture with Dependency Cruiser: A Quick Guide
 
 This document provides instructions on how to install and use Dependency Cruiser to visualize your project's dependencies.
 
