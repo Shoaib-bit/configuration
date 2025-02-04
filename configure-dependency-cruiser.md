@@ -51,7 +51,7 @@ Now you can generate the dependency graph by running:
 ```bash
 npm run dep-graph
 ```
-This will generate the ![Dependency Graph](dependency-graph.png) file showing the dependencies of your project.
+This will generate the (dependency-graph.png) file showing the dependencies of your project.
 
 
 I also created a Loom video explaining the process. Check it out [here](<https://www.loom.com/share/8290e56753a54717b1f95f60b229af43>).
