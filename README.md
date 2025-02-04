@@ -47,7 +47,7 @@ Add the following script to your package.json to generate a PNG image of the dep
 
 
 
-I also created a Loom video explaining the process. Check it out [here](<[https://www.loom.com/share/8290e56753a54717b1f95f60b229af43]>).
+I also created a Loom video explaining the process. Check it out [here](<https://www.loom.com/share/8290e56753a54717b1f95f60b229af43>).
 
 
 
